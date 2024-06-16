@@ -1,4 +1,9 @@
 This is java community op file
 
 -Rohit Khimavat says this community is amazing
+<<<<<<< HEAD
 -Rohit-2 made this change
+=======
+Rohit 2 made this change
+
+>>>>>>> c36a6029abb416b8685283952ad3e4126df56882
